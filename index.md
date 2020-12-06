@@ -5,7 +5,9 @@
 layout: default
 title: Gui Padua
 ---
-# Conference papers
+# Papers
+
+Kundi Yao, **Guilherme B. de Pádua**, Weiyi Shang, Steve Sporea, Andrei Toma and Sarah Sajedi. Log4Perf: Suggesting and Updating Logging Locations for Web-based Systems' Performance Monitoring. Empirical Software Engineering (EMSE '19). [Paper](/resources/Kundi_EMSE2019.pdf) 
 
 **Guilherme B. de Pádua** and Weiyi Shang. *Studying the Relationship between Exception Handling Practices and Post-release Defects*. 15th IEEE/ACM International Conference on Mining Software Repositories (MSR '18). [Website](/eh-model-defects2018/) [Paper](/resources/eh-model-defects2018_cr.pdf) [Slides](https://www.slideshare.net/GuilhermePadua/ieee-acm-studying-the-relationship-between-exception-handling-practices-and-postrelease-defects)
 
